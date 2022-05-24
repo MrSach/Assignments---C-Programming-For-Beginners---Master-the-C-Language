@@ -1,0 +1,15 @@
+This is a very boring test, but I hope you enjoy it!
+
+Testing is important because it helps to identify bugs during development.
+
+This is why we MUST TEST!!!
+
+Testing is a good thing, no matter how patient you may need to be!
+
+Good luck, and I hope your test works well.
+
+Thank you.
+
+Regards
+
+Me
